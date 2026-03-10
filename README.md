@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm chan</h1>
+<h1 align="center">Hi I'm chan</h1>
 <h3 align="center">Newbie developer in Korea</h3>
+
+![dancing-gopher](https://github.com/user-attachments/assets/1ad6e898-a6c0-4566-a8ef-c0203e0c6159)
 
 <h3 align="left">Connect with me : chking1231234@gmail.com </h3>
 <p align="left">
