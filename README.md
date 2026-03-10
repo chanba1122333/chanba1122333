@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 ![dancing-gopher](https://github.com/user-attachments/assets/1ad6e898-a6c0-4566-a8ef-c0203e0c6159)
-</p>
+
 
 <h3 align="left">Connect with me : chking1231234@gmail.com </h3>
 <p align="left">
