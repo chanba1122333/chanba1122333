@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Chan 👋</h1>
+
 <h3 align="center">Newbie developer in Korea</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/285e40b5-d325-4171-8b28-855a8e00399c" width="200">
+  <img src="https://github.com/user-attachments/assets/285e40b5-d325-4171-8b28-855a8e00399c" width="350">
 </p>
 
 <br>
@@ -10,6 +11,8 @@
 <h3 align="left">Connect with me: chanba1122333@gmail.com</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
